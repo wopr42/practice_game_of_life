@@ -10,3 +10,5 @@ gem 'cucumber'
 gem 'guard-rspec'
 gem 'guard-cucumber'
 gem 'growl_notify'
+
+gem 'guerilla_patch'

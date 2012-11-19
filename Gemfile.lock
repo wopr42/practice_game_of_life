@@ -22,6 +22,7 @@ GEM
       guard (>= 0.4.0)
     guard-rspec (0.4.4)
       guard (>= 0.4.0)
+    guerilla_patch (0.0.1)
     jeweler (1.6.4)
       bundler (~> 1.0)
       git (>= 1.2.5)
@@ -58,6 +59,7 @@ DEPENDENCIES
   growl_notify
   guard-cucumber
   guard-rspec
+  guerilla_patch
   jeweler
   rake
   rcov
